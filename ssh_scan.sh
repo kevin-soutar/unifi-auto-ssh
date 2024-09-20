@@ -4,7 +4,7 @@
 NETWORK="192.168.1"  # The first three octets of the network
 START_IP=1           # Starting IP for the scan
 END_IP=254           # End IP for the scan
-USER="your_username" # SSH username
+USER="ubnt" # SSH username
 
 # Loop through each IP in the subnet
 i=$START_IP
